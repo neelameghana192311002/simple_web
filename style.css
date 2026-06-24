@@ -1,0 +1,6 @@
+body { font-family: Arial; margin: 20px; }
+h1, h2 { color: #333; }
+input { padding: 6px; margin: 4px 0; }
+input[type=submit] { background: #333; color: white; border: none; padding: 7px 15px; cursor: pointer; }
+table, th, td { border: 1px solid #000; border-collapse: collapse; padding: 8px; }
+th { background: #333; color: white; }
